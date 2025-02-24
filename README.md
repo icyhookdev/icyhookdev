@@ -6,7 +6,7 @@ Front-end developer
 
 I've been learning to code for 6 years now, I started as Full Stack Developer with Javascript and PHP, but I have really found a passion for Front-end Development, especially with React and a lot of techs involved with it!
 
-* 🌍  I'm based in Colombia, Bogota
+* 🌍  I'm based in United States
 * ✉️  You can contact me at [icyhookdev@gmail.com](mailto:icyhookdev@gmail.com)
 * 🧠  I'm learning Solidity & Dapps with React ⚡
 
